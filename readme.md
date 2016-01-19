@@ -100,7 +100,7 @@
 - [Camilo Nova](https://github.com/camilonova/ama) - Full Stack Software Developer in Colombia.
 - [Jon Moss](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
 - [Seth Mcleod](https://github.com/sethmcleod/ama) - Front-End Engineer, JavaScript Enthusiast and [Code Mentor](http://codementor.io/seth).
-- [Chris Reynolds](https://github.com/jazzsequence/ama) - WordPress developer lead at [WebDevStudios](https://webdevstudios.com) and [Pluralsight author](http://pluralsight.com/author/chris-reynolds).
+- [Chris Reynolds](https://github.com/jazzsequence/ama) - WordPress developer lead at [WebDevStudios](https://webdevstudios.com), [Pluralsight author](http://pluralsight.com/author/chris-reynolds) and speaker.
 
 #### Ask these organizations anything!
 
